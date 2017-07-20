@@ -1,0 +1,22 @@
+﻿.none {
+  display: none !important;
+}
+
+body {
+  background: rgba(0, 102, 150, 0.80);
+  font-family: sans-serif;
+}
+
+p {
+  margin: 0 0 5px;
+}
+
+h1{
+  font-size:1.2em;
+  color: #eee5f1; 
+}
+
+div.page-content{
+ background: rgba(240, 210, 215, 0.5);
+ display: block;
+}

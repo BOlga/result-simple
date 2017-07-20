@@ -1,0 +1,13 @@
+{
+    "extends": "airbnb-base",
+    "plugins": [
+        "import",
+        "react"
+    ],	
+    "rules": {
+       "linebreak-style": ["error", "windows"],	 
+	    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+		"no-param-reassign": ["error", { "props": false }],
+		"max-len": ["error", 120, 4]
+    }
+}
