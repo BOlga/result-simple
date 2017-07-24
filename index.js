@@ -1,3 +1,3 @@
-require("import-export");
 
-require("./src/server.js").run(1000);
+
+require("./src/back/server").run(1000);
